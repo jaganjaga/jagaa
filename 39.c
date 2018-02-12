@@ -17,7 +17,6 @@ if(a[i]>gre)
 {
 gre=g[i];
 }
-}
 printf("greatest no is %d",gre);
 getch();
 }
