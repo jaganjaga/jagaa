@@ -20,6 +20,5 @@ void main()
     f = f + 1;
       }
    }
-   printf("The number of words in the string are %d", f);
    getch();
 }
