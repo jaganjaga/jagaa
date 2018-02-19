@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 { 
 int i,j,a,b;
@@ -21,5 +22,5 @@ else
 {
 printf("the string is equal");
 }
-return 0;
+getch();
 }
