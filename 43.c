@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 void main()
 {
  char a[10],b[10];
@@ -7,5 +6,5 @@ void main()
  scanf("%s",a);
  scanf("%s",b);
  printf("\n the concatenated string is:%s%s",a,b);
- getch();
+ return 0;
  }
