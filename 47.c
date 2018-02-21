@@ -27,4 +27,5 @@ max=b[i];
 }
 }
 printf("%d",max);
+  getch();
 }
