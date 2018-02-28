@@ -15,7 +15,6 @@ int main(void)
 		}
 	}
 	c=pow(2,b);
-	printf("\n%d",c);
-	
+	printf("\n%d",c);	
 	getch();
 }
